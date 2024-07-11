@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33755922806",
+    "project_id": "fluttertsworkshop",
+    "storage_bucket": "fluttertsworkshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33755922806:android:b31a43b505a24f9ec2fa57",
+        "android_client_info": {
+          "package_name": "com.example.flutter_workshop_tweet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMjVRNIRYg6mXJlvUoPo1fluEZBiWIxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
